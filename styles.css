@@ -211,6 +211,14 @@ button {
     min-width: 0;
 }
 
+.experience-narrative p {
+    margin-bottom: 1.25rem;
+}
+
+.experience-narrative p:last-child {
+    margin-bottom: 0;
+}
+
 .hero-heading {
     font-family: var(--font-heading);
     font-weight: 400;
